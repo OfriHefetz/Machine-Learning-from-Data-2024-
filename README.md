@@ -4,9 +4,7 @@ Reichman university
 
 **Subjects covered include:**
 1. Linear models: regression, logistic regression, feature selection
-2. Decision trees, including different approaches to splitting nodes and
-  
-pruning techniques
+2. Decision trees, including different approaches to splitting nodes and pruning techniques
 3. Bayesian learning, including the advantages and disadvantages of naive vs full Bayes approaches
 4. The perceptron - both primal and dual
 5. kNN
